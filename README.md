@@ -75,3 +75,5 @@ Assignment questions:
 29:	Write a program to print a message if the value of variable "n" is greater than 100, otherwise ignore the statement.
 
 30:	Write a program to test whether a given integer is odd or even using simple 'if' structure.
+
+HOW TO RUN CODE:  ./(file name) or run and debug in vs code 
